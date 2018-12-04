@@ -7,6 +7,7 @@ int main()
              cout<<"Variabile contatore: "<<a<<endl;        
      } 
      cout<<"Fine"<<endl;
+     cout<<"questo sarà il secondo commit di Fix_BUG"<<endl;
      system("pause");
      return 0;
 } 
