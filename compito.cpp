@@ -3,8 +3,8 @@ using namespace std;
 
 int main()
 {
-     for(int i=1;i<=10;i++){
-             cout<<"Variabile contatore: "<<i<<endl;        
+     for(int a=1;a<=10;i++){
+             cout<<"Variabile contatore: "<<a<<endl;        
      } 
      cout<<"Fine"<<endl;
      system("pause");
